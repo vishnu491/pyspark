@@ -48,7 +48,7 @@ logger.addHandler(handler)
 # current time variable to be used for logging purpose
 dt_string = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
 # change it to your app name
-AppName = "ETL"
+AppName = "ETL_test"
 
 
 # In[5]:
